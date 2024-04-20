@@ -1,0 +1,7 @@
+click
+fuzzywuzzy
+gensim
+nltk
+numpy
+pyyaml
+sklearn
